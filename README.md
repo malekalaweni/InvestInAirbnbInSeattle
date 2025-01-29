@@ -1,4 +1,4 @@
-# InvestInAirbnbInSeattle
+# Invest In Airbnb In Seattle Area
 A code analyzes Airbnb data, surveyed in 2016, for Seattle about hosting business. 
 
 # Table of Contents
