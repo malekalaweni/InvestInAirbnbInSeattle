@@ -1,4 +1,4 @@
-# Invest In Airbnb Property In Seattle Area.
+# Invest In an Airbnb Property In Seattle Area.
 A code analyzes Airbnb data, surveyed in 2016, for Seattle about hosting business. 
 
 # Table of Contents
